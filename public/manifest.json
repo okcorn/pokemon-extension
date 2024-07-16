@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "Pokemon Chrome Extension",
+  "description": "This is a Chrome extension built with React and TypeScript",
+  "start_url": ".",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Pokemon Chrome Extension",
+    "default_icon": {
+      "16": "images/master-ball.icon.png",
+      "32": "images/master-ball.icon.png",
+      "48": "images/master-ball.icon.png"
+    }
+  }
+}
